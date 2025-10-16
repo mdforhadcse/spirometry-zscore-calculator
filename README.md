@@ -1,4 +1,4 @@
-# Spirometry Z-Score Calculator (FEV1/FVC)
+# Spirometry Z-Score Calculator (FEV1/FVC) (GeoHealth-lung function_with_Zscore)
 
 A tiny, reproducible Python script that calculates the **FEV1/FVC Z-score** for each subject from an Excel sheet using LMS (Lambda–Mu–Sigma) equations. It reads measured spirometry data, looks up reference **M** and **S** values from a CSV, computes **L**, and writes a CSV with Z-scores.
 
